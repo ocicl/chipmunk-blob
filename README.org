@@ -1,0 +1,9 @@
+* chipmunk-blob
+
+Precompiled Chipmunk 2D physics library binaries.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/borodust/chipmunk-blob.git |
+| commit  | b7fca5d                                          |
+| systems | chipmunk-blob                                    |
+|---------+--------------------------------------------------|
